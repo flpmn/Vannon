@@ -1,0 +1,21 @@
+<form [formGroup]="formCliente" (submit)="cadastrar()">
+    <div class="form-group">
+        <select class="form-select" aria-label="Default select example" formControlName="Usuario">
+            <option selected>Selecione o usuario</option>
+            <option *ngFor="let usuario of usuarios" [value]="usuario.id">{{ usuario.nome }}</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="inputNome">Endereco</label>
+        <input type="text" class="form-control" formControlName="Endereco" placeholder="Rua ABC">
+    </div>
+    <div class="form-group">
+      <label for="inputCidade">Cidade</label>
+      <input type="email" class="form-control" formControlName="Cidade" aria-describedby="emailHelp">
+    </div>
+    <div class="form-group">
+        <label for="inputCPF">UF</label>
+        <input type="text" class="form-control" formControlName="UF" placeholder="SP">
+    </div>
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+</form>

@@ -1,0 +1,15 @@
+<form [formGroup]="formFilme" (submit)="cadastrar()">
+    <div class="form-group">
+        <label for="inputTitulo">Titulo</label>
+        <input type="text" class="form-control" formControlName="Titulo" placeholder="Titulo do Filme">
+    </div>
+    <div class="form-group">
+      <label for="InputCategoria">Categoria</label>
+      <input type="email" class="form-control" formControlName="Categoria" placeholder="Suspense">
+    </div>
+    <div class="form-group">
+        <label for="inputAnoLancamento">Ano Lancamento</label>
+        <input type="text" class="form-control" formControlName="AnoLancamento" placeholder="2023">
+    </div>
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+</form>

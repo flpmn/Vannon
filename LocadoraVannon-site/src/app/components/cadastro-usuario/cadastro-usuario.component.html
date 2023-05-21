@@ -1,0 +1,23 @@
+<form [formGroup]="form" (submit)="cadastrar()">
+    <div class="form-group">
+        <label for="inputNome">Nome</label>
+        <input type="text" class="form-control" formControlName="Nome" placeholder="Nome Completo">
+    </div>
+    <div class="form-group">
+      <label for="InputEmail1">Endereço de email</label>
+      <input type="email" class="form-control" formControlName="Email" aria-describedby="emailHelp" placeholder="email@mail.com.br">
+    </div>
+    <div class="form-group">
+        <label for="inputCPF">CPF</label>
+        <input type="text" class="form-control" formControlName="CPF" placeholder="123.456.789-00">
+    </div>
+    <div class="form-group">
+        <label for="inputIdade">Idade</label>
+        <input type="number" class="form-control" formControlName="Idade">
+    </div>
+    <div class="form-group">
+        <label for="inputDataNascimento">Data de Nascimento</label>
+        <input type="date" class="form-control" formControlName="DataNascimento">
+    </div>
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+</form>

@@ -1,0 +1,17 @@
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Titulo</th>
+        <th scope="col">Categoria</th>
+        <th scope="col">Ano Lancamento</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr  *ngFor="let filme of filmes">
+            <td>{{ filme.Titulo }}</td>
+            <td>{{ filme.Categoria }}</td>
+            <td>{{ filme.AnoLancamento }}</td>
+            <td>{{ filme.Status }}</td>
+      </tr>
+    </tbody>
+</table>

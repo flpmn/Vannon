@@ -1,0 +1,12 @@
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\bin\Debug\net6.0\LocadoraVannon.Models.deps.json
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\bin\Debug\net6.0\LocadoraVannon.Models.dll
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\bin\Debug\net6.0\LocadoraVannon.Models.pdb
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\LocadoraVannon.Models.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\LocadoraVannon.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\LocadoraVannon.Models.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\LocadoraVannon.Models.AssemblyInfo.cs
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\LocadoraVannon.Models.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\LocadoraVannon.Models.dll
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\refint\LocadoraVannon.Models.dll
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\LocadoraVannon.Models.pdb
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Models\obj\Debug\net6.0\ref\LocadoraVannon.Models.dll

@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\bin\Debug\net6.0\LocadoraVannon.Repositories.deps.json
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\bin\Debug\net6.0\LocadoraVannon.Repositories.dll
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\bin\Debug\net6.0\LocadoraVannon.Repositories.pdb
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\bin\Debug\net6.0\LocadoraVannon.Models.dll
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\bin\Debug\net6.0\LocadoraVannon.Models.pdb
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.AssemblyInfo.cs
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.csproj.CopyComplete
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.dll
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\refint\LocadoraVannon.Repositories.dll
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\LocadoraVannon.Repositories.pdb
+C:\Users\felip\source\repos\LocadoraVannon\LocadoraVannon.Repositories\obj\Debug\net6.0\ref\LocadoraVannon.Repositories.dll
